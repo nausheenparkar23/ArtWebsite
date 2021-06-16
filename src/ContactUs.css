@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fdebdd;
+  /* overflow: hidden; */
+}
+
+.contactus {
+  width: 400px;
+  margin: 0 auto;
+  height: 100vh;
+
+  margin-top: -60px;
+}
+
+/* Contact.js */
+.contactus {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contactus > h1 {
+  margin-top: 20px;
+  align-self: center;
+}
+
+.contactus > input,
+textarea {
+  padding: 5px;
+  border-radius: 3px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.137);
+  margin-bottom: 15px;
+  border: 1px solid lightgray;
+  /* border: none; */
+  background: #fff;
+  font-size: 16px;
+  color: rgb(0, 0, 32);
+  outline: none;
+}
+
+.contactus > input:focus,
+textarea:focus {
+  border: 1px solid rgb(0, 0, 196);
+}
+
+.contactus > textarea {
+  height: 70px;
+  max-width: 400px;
+  min-height: 20px;
+}
+
+.contactus > label {
+  padding-bottom: 10px;
+  color: rgb(0, 0, 32);
+  font-weight: bold;
+}
+
+.contactus > button {
+  padding: 20px;
+  border: none;
+  background-color: rgb(2, 2, 110);
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  margin-top: 10px;
+}
+
+.contactus > button:hover {
+  background-color: rgb(0, 0, 196);
+}

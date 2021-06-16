@@ -1,0 +1,48 @@
+.aboutus {
+  background-color: #fdebdd;
+  min-height: 100%;
+  min-width: 100%;
+  /* position: fixed; */
+  scroll-behavior: auto;
+}
+
+.nausheen {
+  height: 400px;
+  width: 370px;
+  margin-top: 60px;
+  margin-left: 150px;
+}
+
+.writing__right {
+  display: inline-block;
+  padding: 20px;
+  height: max-content;
+
+  vertical-align: middle;
+  margin-top: -770px;
+  margin-left: 153px; 
+  font-size: 25px;
+}
+
+.writing__desc {
+  display: inline-block;
+  padding: 2px;
+  height: max-content;
+
+  /* word-break: break-all; */
+  word-wrap: break-word;
+  font-size: 18px;
+
+  vertical-align: middle;
+  margin-top: -495px;
+  margin-left: 620px;
+  margin-right: 50px;
+}
+
+.myworks {
+  padding: 5px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 24px;
+  border-top: #ba723d 1px solid;
+}

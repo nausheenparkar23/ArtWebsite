@@ -1,0 +1,39 @@
+/* cashout */
+.success-msg {
+  background-color: green;
+  color: #fff;
+  padding: 5px;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.form-control {
+  margin-left: 15px;
+}
+
+.cash {
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+.label1 {
+  margin-left: 5px;
+  font-size: 18px;
+}
+
+.container1 {
+  margin-left: 15px;
+  width: 60%;
+  /* padding: 5px; */
+}
+
+.success-msg .home-link {
+  color: green;
+}
+
+.mybtn {
+  width: 50%;
+  margin-left: 17px;
+  margin-bottom: 50px;
+}

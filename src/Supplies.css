@@ -1,0 +1,12 @@
+.image {
+  height: 250px;
+  /* width: 200px; */
+  align-items: center;
+  align-self: center;
+  align-self: center;
+  justify-content: center;
+  object-fit: contain;
+
+  /* margin-left: 45px; */
+  width: 100%;
+}

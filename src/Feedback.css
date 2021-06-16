@@ -1,0 +1,61 @@
+.form-group {
+  align-items: center;
+}
+
+.form-group > textarea {
+  height: 90px;
+  min-width: 500px;
+  min-height: 50px;
+  margin-top: 10px;
+}
+
+.submitbtn {
+  margin-top: -20px;
+}
+
+.h4 {
+  margin-top: 10px;
+}
+
+.h21 {
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  text-align: center;
+}
+
+.card {
+  width: 100%;
+  height: 300px;
+  background: #333;
+  color: #fff;
+  font-size: 30px;
+  margin: 0 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel {
+  /* display: inline-block; */
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: auto;
+  width: 100%;
+  background-color: white;
+  border: 1.5px solid #f57224;
+  color: black;
+  margin: 0 15px;
+  font-size: 18px;
+  padding: 15px;
+}
+
+.stars {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.f2 {
+  margin-top: 10px;
+}
